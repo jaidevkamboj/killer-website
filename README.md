@@ -36,5 +36,5 @@ The website now delivers a more polished, professional user experience with impr
 
 ---
 
-**Live Demo:** [Insert Your URL Here]
-**Repository:** [Insert Your GitHub Repo Link Here]
+**Live Demo:** [https://jaidevkamboj.github.io/killer-website/](https://jaidevkamboj.github.io/killer-website/)  
+**Repository:** [https://github.com/jaidevkamboj/killer-website](https://github.com/jaidevkamboj/killer-website)
